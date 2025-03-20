@@ -9,3 +9,5 @@ function calculateAge(age){
         console.log("Eres menor de edad"+ age);
     }
 }
+
+console.log(calculateAge(20));
