@@ -11,3 +11,11 @@ function calculateAge(age){
 }
 
 console.log(calculateAge(20));
+
+function despedir(){
+
+}
+
+console.log("chao");
+
+
