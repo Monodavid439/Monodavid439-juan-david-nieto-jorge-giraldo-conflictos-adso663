@@ -12,10 +12,13 @@ function calculateAge(age){
 
 console.log(calculateAge(20));
 
+console.log("chao");
+
 function despedir(){
 
 }
 
-console.log("chao");
+console.log("Hello word");
+
 
 
